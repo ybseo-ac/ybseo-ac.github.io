@@ -9,17 +9,15 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p> 82 010-5137-8591</p>
+    <p>Yonsei University 50 Yonsei-ro, Seodaemun-gu</p>
+    <p>Seoul 03722, Republic of Korea</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am currently researching natural language processing (NLP) within artificial intelligence, focusing on areas like Continual Knowledge Learning (CKL) and hallucination detection. I prefer drawing inspiration from neurocognitive science.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My first-author paper was accepted at the 2024 NeurIPS conference. Besides the corresponding author, I was the sole researcher on the project, handling all the experiments and writing by myself. It was very challenging, but I found it enjoyable.
