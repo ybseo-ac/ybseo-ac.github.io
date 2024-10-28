@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>+82 010-5137-8591</p>
+    <p> 82 010-5137-8591</p>
     <p>Yonsei University 50 Yonsei-ro, Seodaemun-gu</p>
     <p>Seoul 03722, Republic of Korea</p>
 
