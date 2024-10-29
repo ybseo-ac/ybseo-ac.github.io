@@ -1,8 +1,12 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2024-09-26 15:19:00-0400
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+:tada: Our work <a href="https://openreview.net/pdf?id=pwLdvYIMrF">"Train-Attention: Meta-Learning Where to Focus in Continual Knowledge Learning"</a> got accept to NeurIPS 2024!
+
+---
+
+more informations
