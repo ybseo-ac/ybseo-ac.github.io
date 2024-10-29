@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p> MS Student at Yonsei University </p><
+    <p> MS Student at Yonsei University </p>
     <p> suhcrates@yonsei.ac.kr</p>
 
 news: true # includes a list of news items
