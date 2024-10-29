@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:tada: I developed Dong-A Ilbo\'s news article recommendation system, featured by <a href="http://m.journalist.or.kr/m/m_article.html?no=53470">the Korean Journalists Association</a>.
+:tada: I developed news article recommendation system of Dong-A Ilbo, which is featured by <a href="http://m.journalist.or.kr/m/m_article.html?no=53470">the Korean Journalists Association</a> journal.
