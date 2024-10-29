@@ -1,0 +1,182 @@
+# -----------------------------------------------------------------------------
+# Site settings
+# -----------------------------------------------------------------------------
+
+title: blank # the website title (if blank, full name will be used instead)
+first_name: Seo
+middle_name: 
+last_name: Yeongbin
+email: suhcrates@yonsei.ac.kr
+description: > # the ">" symbol means to ignore newlines until "footer_text:"
+  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+footer_text: >
+  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
+  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
+keywords: # keywords disabled to save resources
+lang: en # the language of your site
+icon: ⚛️ # favicon emoji (or provide image name in /assets/img/)
+
+url: https://ybseo-ac.github.io
+baseurl: # leave blank for root
+last_updated: false # leave as false to reduce processing
+back_to_top: true # set to false if unnecessary
+
+# -----------------------------------------------------------------------------
+# Theme and layout optimizations
+# -----------------------------------------------------------------------------
+
+# repo color theme
+repo_theme_light: default
+repo_theme_dark: dark
+repo_trophies: # comment out trophies for faster load
+  enabled: false
+
+navbar_fixed: true
+footer_fixed: true
+search_enabled: true # comment out if not needed
+socials_in_search: false # disable to save load
+bib_search: false # disable if not necessary
+
+# Pagination settings
+pagination:
+  enabled: true
+
+related_blog_posts: # disable if not necessary
+  enabled: false
+
+# -----------------------------------------------------------------------------
+# Social integration - Comment out unused accounts for lighter config
+# -----------------------------------------------------------------------------
+
+acm_id:
+dblp_url:
+discord_id:
+facebook_id:
+github_username:
+ieee_id:
+instagram_id:
+linkedin_username:
+medium_username:
+orcid_id:
+research_gate_profile:
+scholar_userid: qc6CJjYAAAAJ
+scopus_id:
+semanticscholar_id:
+
+# -----------------------------------------------------------------------------
+# Analytics - Comment out unused integrations
+# -----------------------------------------------------------------------------
+
+# google_analytics: 
+# cronitor_analytics: 
+# pirsch_analytics:
+
+# -----------------------------------------------------------------------------
+# Blog - Simplify blog options for faster load
+# -----------------------------------------------------------------------------
+
+blog_name: ybseo
+blog_description: a simple whitespace theme for academics
+lsi: false # disable to save resources
+
+external_sources: # disable external sources if not required
+  - name: medium.com
+    rss_url: https://medium.com/@al-folio/feed
+
+# -----------------------------------------------------------------------------
+# Collections - Limit output to required content only
+# -----------------------------------------------------------------------------
+
+collections:
+  news:
+    defaults:
+      layout: post
+    output: true
+    permalink: /:collection/:title/
+  projects:
+    output: true
+    permalink: /:collection/:title/
+
+announcements: # disable if not essential
+  enabled: false
+
+latest_posts:
+  enabled: true
+
+# -----------------------------------------------------------------------------
+# Plug-ins - Comment out unnecessary plug-ins
+# -----------------------------------------------------------------------------
+
+plugins:
+  - jekyll-feed # Essential plugins only, comment out others
+  - jekyll-sitemap
+
+# Additional plugins commented out
+# - jekyll-archives
+# - jekyll-email-protect
+# - jekyll-imagemagick
+# - jekyll-jupyter-notebook
+# - jekyll-link-attributes
+# - jekyll-minifier
+# - jekyll-paginate-v2
+# - jekyll-regex-replace
+# - jekyll-tabs
+# - jemoji
+
+# -----------------------------------------------------------------------------
+# Jekyll Minifier - Comment out to reduce complexity
+# -----------------------------------------------------------------------------
+
+# jekyll-minifier:
+#   exclude: ["robots.txt", "assets/js/search/*.js", "assets/libs/**/*"]
+
+# -----------------------------------------------------------------------------
+# Jekyll Scholar - Disable if not needed
+# -----------------------------------------------------------------------------
+
+# scholar:
+#   last_name: [Einstein]
+#   first_name: [Albert, A.]
+#   style: apa
+#   locale: en
+#   source: /_bibliography/
+#   bibliography: papers.bib
+#   replace_strings: true
+#   details_dir: bibliography
+
+# -----------------------------------------------------------------------------
+# Disable third-party libraries not being used
+# -----------------------------------------------------------------------------
+
+third_party_libraries:
+  download: false
+
+# Comment out all third-party libraries for lighter load if not required
+# vega-lite:
+#   integrity:
+#   version: "5.16.3"
+# chartjs:
+#   integrity:
+
+# -----------------------------------------------------------------------------
+# Optional features - Disable non-essential features
+# -----------------------------------------------------------------------------
+
+enable_google_analytics: false
+enable_cronitor_analytics: false
+enable_darkmode: true # Keep only if needed
+enable_navbar_social: false # disables displaying social links in navbar
+enable_masonry: false # disables automatic project card arrangement
+enable_progressbar: false # disables scroll-linked progress bar
+
+# Library optimizations
+lazy_loading_images: true # enable lazy loading images
+
+# -----------------------------------------------------------------------------
+# JSON data import
+# -----------------------------------------------------------------------------
+
+# jekyll_get_json:
+#   - data: resume
+#     json: assets/json/resume.json # disable if not essential
