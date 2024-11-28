@@ -1,3 +1,1 @@
 I am currently researching natural language processing (NLP) within artificial intelligence, focusing on areas like Continual Knowledge Learning (CKL) and hallucination detection. I prefer drawing inspiration from neurocognitive science.
-
-My first-author paper was accepted at the 2024 NeurIPS conference. Besides the corresponding author, I was the sole researcher on the project, handling all the experiments and writing by myself. It was very challenging, but I found it enjoyable.
