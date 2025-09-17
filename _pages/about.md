@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle:>
+subtitle:
    <a href="https://github.com/ybseo-ac" target="_blank">
     <i class="fab fa-github"></i>
   </a> ·
