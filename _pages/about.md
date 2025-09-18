@@ -3,9 +3,10 @@ layout: about
 title: about
 permalink: /
 subtitle: >
-    <a href="https://github.com/ybseo-ac" target="_blank"> <i class="fab fa-github fa-2x"></i>   </a>
-    <a href="https://www.linkedin.com/in/yeongbin-seo-719353334/" target="_blank"> <i class="fab fa-linkedin fa-2x"></i>   </a>
-    <a href="https://scholar.google.com/citations?hl=en&user=fX6eNrsAAAAJ" target="_blank"> <i class="ai ai-google-scholar fa-2x"></i>   </a>
+    <a href="https://github.com/ybseo-ac" target="_blank" style="margin-right:10px;"> <i class="fab fa-github fa-2x"></i>   </a>
+    <a href="https://scholar.google.com/citations?hl=en&user=fX6eNrsAAAAJ" target="_blank" style="margin-right:10px;"> <i class="ai ai-google-scholar fa-2x"></i>   </a>
+    <a href="https://www.linkedin.com/in/yeongbin-seo-719353334/" target="_blank" style="margin-right:10px;"> <i class="fab fa-linkedin fa-2x"></i>   </a>
+    <a href="/assets/pdf/cv_yeongbin_seo.pdf" target="_blank"> <i class="fas fa-file-alt fa-2x"></i> </a>
 
 profile:
   align: right
@@ -26,6 +27,6 @@ Hi! I am a second-year M.S. student at Yonsei University.  I am currently at the
 
 
 #### Research Interest  (ML, NLP)
-  My research is focused on building human-like self-evolving AI, and I believe this requires improving the architecture of LMs. For example, to accelerate RL in LMs, I believe the LMs need goal-orientation (bidirectional attention) and faster generation speed, which motivated my research on **diffusion LMs**.  I also believe that, for RL of LMs, the token-level granularity of LMs should be compressed into concept-level units in order to avoid the long-horizon (i.e., sparse reward) problem, so I'm currently working on **hierarchical LMs** (i.e., **latent reasoning**). 
+  My research is focused on building human-like self-evolving AI, and I believe this requires improving the architecture of LMs. For example, to accelerate RL in LMs, the LMs need goal-orientation (bidirectional attention) and faster generation speed, which motivated my research on **diffusion LMs**.  Moreover, for RL of LMs, the token-level granularity of LMs should be compressed into concept-level units in order to avoid the long-horizon (i.e., sparse reward) problem, so I'm currently working on **hierarchical LMs** (i.e., **latent reasoning**). 
 
   Also, I conducted research on **continual knowledge learning**, which is essential in self-evolving AI. I also explored **efficient learning via data pruning**, which will be required for continual learning of a vast stream of text data. I am potentially open to research on **embodied agent**, to build the **emotion and personality of LM**.
