@@ -3,9 +3,9 @@ layout: about
 title: about
 permalink: /
 subtitle: >
-    <a href="https://github.com/ybseo-ac" target="_blank"> <i class="fab fa-github fa-2x"></i> </a>
-    <a href="https://www.linkedin.com/in/yeongbin-seo-719353334/" target="_blank"> <i class="fab fa-linkedin fa-2x"></i> </a>
-    <a href="https://scholar.google.com/citations?hl=en&user=fX6eNrsAAAAJ" target="_blank"> <i class="ai ai-google-scholar fa-2x"></i> </a>
+    <a href="https://github.com/ybseo-ac" target="_blank"> <i class="fab fa-github fa-2x"></i>   </a>
+    <a href="https://www.linkedin.com/in/yeongbin-seo-719353334/" target="_blank"> <i class="fab fa-linkedin fa-2x"></i>   </a>
+    <a href="https://scholar.google.com/citations?hl=en&user=fX6eNrsAAAAJ" target="_blank"> <i class="ai ai-google-scholar fa-2x"></i>   </a>
 
 profile:
   align: right
