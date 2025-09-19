@@ -25,7 +25,7 @@ social: true # includes social icons at the bottom of the page
 
 *(Looking for Ph.D. opportunities in the U.S.!!)*
 
-Hi! I am a second-year M.S. student at Yonsei University.  I am currently at the ML3 lab of professor [Jaehyung Kim](https://sites.google.com/view/jaehyungkim)  for a research exchange.  I was previously advised by professor [Jinyoung Yeo](https://jinyeo.weebly.com/). I received B.S. in Educational Science from Yonsei University. I also served as a journalist specializing in data analysis in [Donga Ilbo](https://www.donga.com/), which is one of the top major newspapers in South Korea.
+Hi! I am a second-year M.S. student at Yonsei University.  I am currently at the ML3 lab of Profs. [Jaehyung Kim](https://sites.google.com/view/jaehyungkim)  for a research exchange.  I was previously advised by Profs. [Jinyoung Yeo](https://jinyeo.weebly.com/). I also collaborate closely with Profs. [Dongha Lee](https://donalee.github.io/). I received B.S. in Educational Science from Yonsei University. I also served as a journalist specializing in data analysis in [Donga Ilbo](https://www.donga.com/), which is one of the top major newspapers in South Korea.
 
 
 #### Research Interest  (ML, NLP)
