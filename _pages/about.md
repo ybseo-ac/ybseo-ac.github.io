@@ -13,8 +13,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p> MS Student at Yonsei University </p>
-    <p> suhcrates@yonsei.ac.kr</p>
+    <p> PhD at CS of UofT </p>
+    <p> ybseo@cs.toronto.edu</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
