@@ -13,7 +13,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p> PhD at CS of UofT </p>
+    <p> PhD student in CS of UofT </p>
     <p> ybseo@cs.toronto.edu</p>
 
 news: true # includes a list of news items
