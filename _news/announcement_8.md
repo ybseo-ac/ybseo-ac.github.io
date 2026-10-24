@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:tada: Collaboration with Jihoon Lee, "Resnoie Consistency: Unlocking Efficient Self-Correction for Diffusion LLM", was accepted at NeurIPS 2026!.
+:tada: Collaboration with Jihoon Lee, "Resnoie Consistency: Unlocking Efficient Self-Correction for Diffusion LLM", was accepted at NeurIPS 2026!
