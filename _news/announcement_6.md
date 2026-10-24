@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:tada: My first-authored work <a href="https://www.arxiv.org/abs/2509.18577">"Prior-based Noisy Text Data Filtering: Fast and Strong Alternative For Perplexity"</a> got accepted to <b>ICLR 2026 </b>! 
+:tada: First-authored work <a href="https://www.arxiv.org/abs/2509.18577">"Prior-based Noisy Text Data Filtering: Fast and Strong Alternative For Perplexity"</a> got accepted to <b>ICLR 2026 </b>! 
