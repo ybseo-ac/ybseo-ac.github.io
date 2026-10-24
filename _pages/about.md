@@ -6,7 +6,7 @@ subtitle: >
     <a href="https://github.com/ybseo-ac" target="_blank" style="margin-right:10px;"> <i class="fab fa-github fa-2x"></i>   </a>
     <a href="https://scholar.google.com/citations?hl=en&user=fX6eNrsAAAAJ" target="_blank" style="margin-right:10px;"> <i class="ai ai-google-scholar fa-2x"></i>   </a>
     <a href="https://www.linkedin.com/in/yeongbin-seo-719353334/" target="_blank" style="margin-right:10px;"> <i class="fab fa-linkedin fa-2x"></i>   </a>
-    <a href="/assets/pdf/cv_yeongbin_seo.pdf" target="_blank"> <i class="fas fa-file-alt fa-2x"></i> </a>
+    <a href="assets/pdf/cv_yeongbin_seo.pdf" target="_blank"> <i class="fas fa-file-alt fa-2x"></i> </a>
 
 profile:
   align: right
@@ -27,7 +27,7 @@ social: true # includes social icons at the bottom of the page
 
 <!-- Hi! I am a second-year M.S. student at Yonsei University.  I am currently at the ML3 lab of Prof. [Jaehyung Kim](https://sites.google.com/view/jaehyungkim)  for a research exchange.  I was previously advised by Prof. [Jinyoung Yeo](https://jinyeo.weebly.com/). I also collaborate closely with Prof. [Dongha Lee](https://donalee.github.io/). I received B.S. in Educational Science from Yonsei University. I also served as a journalist specializing in data analysis in [Donga Ilbo](https://www.donga.com/), which is one of the top major newspapers in South Korea. -->
 
-Hi! I am a first-year PhD student in Computer Science at the University of Toronto and Vector Institute. I am supervised by by Prof. [Rahul G. Krishnan](https://www.cs.toronto.edu/~rahulgk/). Previously, I did my Master at Yonsei University in South Korea, supervised by Prof. [Jaehyung Kim](https://sites.google.com/view/jaehyungkim) and Prof. [Jinyoung Yeo](https://langlab.yonsei.ac.kr/). I also collaborated closely with Prof. [Dongha Lee](https://donalee.github.io/). I received B.S. in Educational Science from Yonsei University. I also served as a journalist specializing in data analysis in [Donga Ilbo](https://www.donga.com/).
+Hi! I am a first-year PhD student in Computer Science at the University of Toronto and Vector Institute. I am supervised by Prof. [Rahul G. Krishnan](https://www.cs.toronto.edu/~rahulgk/). Previously, I did my Master at Yonsei University in South Korea, supervised by Prof. [Jaehyung Kim](https://sites.google.com/view/jaehyungkim) and Prof. [Jinyoung Yeo](https://langlab.yonsei.ac.kr/). I also collaborated closely with Prof. [Dongha Lee](https://donalee.github.io/). I received B.S. in Educational Science from Yonsei University. I also served as a journalist specializing in data analysis in [Donga Ilbo](https://www.donga.com/).
 
 
 #### Research Interest  (ML, NLP)

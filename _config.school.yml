@@ -1,0 +1,4 @@
+# School deployment: https://www.cs.toronto.edu/~ybseo/
+# Build with: JEKYLL_ENV=production bundle exec jekyll build --config _config.yml,_config.school.yml
+url: "https://www.cs.toronto.edu"
+baseurl: "/~ybseo"
