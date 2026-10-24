@@ -229,6 +229,8 @@ kramdown:
 # Includes & excludes
 include: ["_pages"]
 exclude:
+  - "학교홈페이지.sh"
+  - " 학교홈페이지.sh"
   - bin/
   - CONTRIBUTING.md
   - CUSTOMIZE.md
